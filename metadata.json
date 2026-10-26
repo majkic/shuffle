@@ -1,0 +1,6 @@
+{
+  "name": "Shuffle - Smart List Randomizer & PDF Export",
+  "description": "Create named lists, toggle selection, prioritize essential items, and shuffle them into an organized randomized view with instant high-quality PDF export and category filtering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
